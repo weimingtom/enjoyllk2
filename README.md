@@ -12,3 +12,6 @@ References:
 
 (2) war3llk  
 	http://www.newxing.com/Tech/Program/Cpp/128.html  
+
+(3) sdl_android_sample  
+	https://github.com/ggkuron/sdl_android_sample  
