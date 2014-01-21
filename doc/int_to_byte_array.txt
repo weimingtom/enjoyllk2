@@ -1,0 +1,13 @@
+http://stackoverflow.com/questions/5585532/c-int-to-byte-array
+
+union byteint
+{
+    byte b[sizeof int];
+    int i;
+};
+
+byteint bi;
+bi.i = 1337;
+for(int i = 0; i<4;i++)
+    destination[i] = bi.b[i];
+

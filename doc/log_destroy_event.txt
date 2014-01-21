@@ -1,0 +1,7 @@
+01-05 08:39:27.854: V/SDL(1597): nativePause()
+01-05 08:39:27.874: I/SDL/APP(1597): default event : 512 
+01-05 08:39:27.874: I/SDL/APP(1597): default event : 512 
+01-05 08:39:27.874: I/SDL/APP(1597): default event : 512 
+01-05 08:39:27.874: I/SDL/APP(1597): default event : 259 
+01-05 08:39:27.874: I/SDL/APP(1597): default event : 260 
+01-05 08:39:27.874: I/SDL/APP(1597): render

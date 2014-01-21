@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">物件连连看</string>
+    
+    <string name="version_number">1.0</string>
+    <string name="mail_address">weimingtom@qq.com</string>    
+    <string name="about_message">
+	物件连连看\n
+	版本：1.0\n
+\n
+一、游戏规则：\n
+    物品连连看是以水果、食品、动物、体育项目为主题的简单连连看游戏。\n
+    通过找到相同物品并以不多于三段直线连结来消除方块，直至全部消除方块后通关。\n
+    整个游戏共4关，方块图案以水果、食品、动物、体育项目为主题，可重新恢复上一次退出时的游戏状态，容易上手，简单好玩。\n
+\n
+二、目前的问题：\n
+1.不支持界外连线。\n
+2.选中方块可能有时不显示选中框（蓝色框）。\n
+\n
+三、更新日志：\n
+v1.0：首次上传。\n
+\n
+四、鸣谢和引用资源：\n
+1.SDL2\n
+  http://www.libsdl.org/\n
+2.war3llk\n
+  http://www.newxing.com/Tech/Program/Cpp/128.html\n
+\n
+\n
+五、联系方式：\n
+Author：weimingtom\n
+Blog：http://weimingtom.iteye.com/\n
+Email：weimingtom@qq.com\n
+	</string>
+</resources>
